@@ -1,2 +1,2 @@
-# bolum-5-devam
-Bölüm 5 devamı
+# geriye-kalan-tüm-kodlar
+Tüm kodları buaraya yükleyeceğim.
